@@ -10,22 +10,22 @@ I enjoy turning ideas into beautiful interfaces and exploring creative UI develo
 
 ## 🛠️ Skills & Technologies
 
-* **Flutter**
-* **Dart**
-* **UI/UX Design**
-* **CustomPainter**
-* **Responsive UI**
-* **Mobile App Development**
-* **Git & GitHub**
+- **Flutter**
+- **Dart**
+- **UI/UX Design**
+- **CustomPainter**
+- **Responsive UI**
+- **Mobile App Development**
+- **Git & GitHub**
 
 ---
 
 ## 🚀 What I'm Working On
 
-* 📱 Building Flutter applications
-* 🎨 Creating creative and interactive UI designs
-* ✏️ Exploring custom graphics with Flutter CustomPainter
-* 🌱 Continuously improving my development skills
+- 📱 Building Flutter applications
+- 🎨 Creating creative and interactive UI designs
+- ✏️ Exploring custom graphics with Flutter CustomPainter
+- 🌱 Continuously improving my development skills
 
 ---
 
