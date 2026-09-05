@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Iqra Umer 👋
 
-<!--
-**iqraumer-dev/iqraumer-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Flutter Developer 🚀
 
-Here are some ideas to get you started:
+I'm passionate about building clean, creative, and user-friendly mobile experiences with **Flutter & Dart**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into beautiful interfaces and exploring creative UI development with **CustomPainter**.
+
+---
+
+## 🛠️ Skills & Technologies
+
+* **Flutter**
+* **Dart**
+* **UI/UX Design**
+* **CustomPainter**
+* **Responsive UI**
+* **Mobile App Development**
+* **Git & GitHub**
+
+---
+
+## 🚀 What I'm Working On
+
+* 📱 Building Flutter applications
+* 🎨 Creating creative and interactive UI designs
+* ✏️ Exploring custom graphics with Flutter CustomPainter
+* 🌱 Continuously improving my development skills
+
+---
+
+## 📂 Featured Project
+
+### ❤️ Flutter Heart Clipper
+
+A creative Flutter project focused on custom heart-shaped UI and drawing using Flutter's `CustomPainter`.
+
+---
+
+## 🎯 My Goal
+
+To grow as a Flutter developer and build beautiful, useful, and creative mobile applications.
+
+---
+
+### 💡 Always learning. Always building. Always improving. 🚀
+
+⭐ Feel free to explore my repositories!
