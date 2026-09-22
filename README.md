@@ -13,7 +13,8 @@ Currently working with **Flutter & Dart**, with previous experience in **Java an
 ### Exploring
 
 **Flutter Development** · **UI & Animations**
-Flutter Heart Clipper ❤️
+
+### Flutter Heart Clipper ❤️
 
 A simple Flutter UI created using CustomPainter and Dart.
 
