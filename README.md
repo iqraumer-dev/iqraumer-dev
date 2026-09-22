@@ -14,14 +14,4 @@ Currently working with **Flutter & Dart**, with previous experience in **Java an
 
 **Flutter Development** · **UI & Animations**
 
-### Flutter Heart Clipper ❤️
 
-A simple Flutter UI created using CustomPainter and Dart.
-
-Built With
-Flutter
-Dart
-CustomPainter
-About
-
-This project demonstrates how to create a custom heart-shaped UI using Flutter's CustomPainter.
