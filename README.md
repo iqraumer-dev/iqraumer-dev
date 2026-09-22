@@ -1,48 +1,15 @@
 # Hi, I'm Iqra Umer 👋
 
-### Flutter Developer 🚀
+### Mobile App Developer
 
-I'm passionate about building clean, creative, and user-friendly mobile experiences with **Flutter & Dart**.
+I build mobile applications and enjoy creating clean, interactive, and user-friendly interfaces.
 
-I enjoy turning ideas into beautiful interfaces and exploring creative UI development with **CustomPainter**.
+Currently exploring **Flutter & Dart**, with previous experience in **Java and Android App Development**.
 
----
+### Tech Stack
 
-## 🛠️ Skills & Technologies
+**Flutter** · **Dart** · **Java** · **Android** · **Git & GitHub**
 
-- **Flutter**
-- **Dart**
-- **UI/UX Design**
-- **CustomPainter**
-- **Responsive UI**
-- **Mobile App Development**
-- **Git & GitHub**
+### Currently Learning
 
----
-
-## 🚀 What I'm Working On
-
-- 📱 Building Flutter applications
-- 🎨 Creating creative and interactive UI designs
-- ✏️ Exploring custom graphics with Flutter CustomPainter
-- 🌱 Continuously improving my development skills
-
----
-
-## 📂 Featured Project
-
-### ❤️ Flutter Heart Clipper
-
-A creative Flutter project focused on custom heart-shaped UI and drawing using Flutter's `CustomPainter`.
-
----
-
-## 🎯 My Goal
-
-To grow as a Flutter developer and build beautiful, useful, and creative mobile applications.
-
----
-
-### 💡 Always learning. Always building. Always improving. 🚀
-
-⭐ Feel free to explore my repositories!
+**Flutter Development** · **UI & Animations**
